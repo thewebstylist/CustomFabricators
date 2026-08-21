@@ -1,0 +1,6 @@
+{
+  "name": "JACF | J.A. Custom Fabricators & Engineering",
+  "description": "Florida's premier architectural and structural metal fabricator since 1997. Precision-engineered aluminum shutters, railings, gates, and structural steel built for Florida High Velocity Hurricane Zones (HVHZ).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
